@@ -22,6 +22,8 @@ npm i
 ## Usage
 npm run start
 
+[Deployed on Render](https://pwa-text-editor-m5av.onrender.com/)
+
 ## License
 This application is covered under the MIT license.
 
